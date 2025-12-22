@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Delsy%20Cuellar%20Chung&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </div>
 
-<h3 align="center">💜 Frontend Developer | Creando experiencias digitales increíbles 💜</h3>
+<h3 align="center">💜 Full Stack Developer | Creando experiencias digitales increíbles 💜</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Desarrolladora+Frontend;Apasionada+por+el+diseño;Creando+interfaces+bonitas;Siempre+aprendiendo+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Desarrolladora+Full+Stack;Frontend+%7C+Backend+%7C+Databases;Apasionada+por+el+código+limpio;Siempre+aprendiendo+nuevas+tecnologías+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,10 +14,16 @@
 
 ```javascript
 const delsy = {
-    role: "Frontend Developer",
+    role: "Full Stack Developer",
     location: "🌎",
-    passions: ["Diseño UI/UX", "Código limpio", "Animaciones web"],
-    currentFocus: "Crear experiencias de usuario memorables",
+    code: ["JavaScript", "TypeScript", "C#", "C++", "PHP"],
+    technologies: {
+        frontend: ["React", "Angular", "Vue.js", "HTML5", "CSS3"],
+        backend: ["Laravel", "C#", ". NET"],
+        databases: ["MySQL", "PostgreSQL", "MongoDB", "SQL Server"],
+        tools: ["Git", "Linux", "Docker", "Figma", "VS Code"]
+    },
+    currentFocus: "Crear aplicaciones escalables y eficientes",
     funFact: "El café y el código son mi combinación perfecta ☕️"
 };
 ```
@@ -28,24 +34,42 @@ const delsy = {
 
 <div align="center">
 
-#### Frontend
+#### 💻 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6? style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-#### Estilos & Frameworks
+#### 🎨 Estilos & Frameworks
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-#### Herramientas
+#### ⚙️ Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![. NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+#### 🗄️ Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1? style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+#### 🔧 Herramientas & Otros
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -54,7 +78,7 @@ const delsy = {
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats. vercel.app/api?username=delsycuellarchung&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=delsycuellarchung&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delsycuellarchung&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
@@ -81,8 +105,8 @@ const delsy = {
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tu-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example. com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2? style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
 
 </div>
 
@@ -90,11 +114,13 @@ const delsy = {
 
 ### 💡 Actualmente
 
-- 🔭 Trabajando en proyectos emocionantes de frontend
-- 🌱 Aprendiendo nuevas tecnologías y mejores prácticas
+- 🔭 Trabajando en proyectos full stack con Angular y Laravel
+- 🌱 Perfeccionando mis habilidades en C# y .NET
+- 💾 Optimizando bases de datos y consultas SQL
+- 🐧 Desarrollando en entornos Linux
 - 👯 Abierta a colaborar en proyectos open source
-- 💬 Pregúntame sobre HTML, CSS, JavaScript, React
-- ⚡ Fun fact: Me encanta crear interfaces que enamoran a los usuarios
+- 💬 Pregúntame sobre desarrollo web, bases de datos, o cualquier cosa tech! 
+- ⚡ Fun fact: Me encanta resolver problemas complejos y crear soluciones elegantes
 
 ---
 
