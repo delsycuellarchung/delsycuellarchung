@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://images.hdqwalls.com/wallpapers/jujutsu-kaisen-sengaku-soran-4k-wz.jpg" alt="Banner" width="100%" height="500" style="object-fit: cover; object-position: center;"/>
 </div>
-<h3 align="center">💜 Full Stack Developer | Creando experiencias💜</h3>
+<h3 align="center">💜 Full Stack Developer | AMO LA COQUITA </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Desarrolladora+Full+Stack;Frontend+%7C+Backend+%7C+Databases;Apasionada+por+el+código+limpio;Siempre+aprendiendo+nuevas+tecnologías+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Desarrolladora+Full+Stack;Frontend+%7C+Backend+%7C+Databases;Apasionada+por+el+código+y la coquita ;Siempre+aprendiendo+nuevas+tecnologías+🚀" alt="Typing SVG" />
 </p>
 
 ---
