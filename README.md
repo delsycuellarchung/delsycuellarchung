@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=12&height=200&section=header&text=Delsy%20Cuellar%20Chung&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Delsy%20Cuellar%20Chung&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </div>
 
 <h3 align="center">💜 Full Stack Developer | Creando experiencias digitales increíbles 💜</h3>
@@ -7,8 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Desarrolladora+Full+Stack;Frontend+%7C+Backend+%7C+Databases;Apasionada+por+el+código+limpio;Siempre+aprendiendo+nuevas+tecnologías+🚀" alt="Typing SVG" />
 </p>
-
----
 
 ### 👩‍💻 Sobre mí
 
@@ -21,14 +19,12 @@ const delsy = {
         frontend: ["React", "Angular", "Vue.js", "HTML5", "CSS3"],
         backend: ["Laravel", "C#", ". NET"],
         databases: ["MySQL", "PostgreSQL", "MongoDB", "SQL Server"],
-        tools: ["Git", "Linux", "Docker", "Figma", "VS Code"]
+        tools:  ["Git", "Linux", "Docker", "Figma", "VS Code"]
     },
     currentFocus: "Crear aplicaciones escalables y eficientes",
     funFact: "El café y el código son mi combinación perfecta ☕️"
 };
 ```
-
----
 
 ### 🛠️ Mi Stack Tecnológico
 
@@ -45,14 +41,14 @@ const delsy = {
 
 #### 🎨 Estilos & Frameworks CSS
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C? style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 #### ⚙️ Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![. NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4? style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
@@ -74,20 +70,16 @@ const delsy = {
 
 </div>
 
----
-
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api? username=delsycuellarchung&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delsycuellarchung&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel. app/api/top-langs/? username=delsycuellarchung&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=delsycuellarchung&theme=radical" alt="GitHub Streak" />
 </div>
-
----
 
 ### 🌟 Proyectos Destacados
 
@@ -97,8 +89,6 @@ const delsy = {
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=delsycuellarchung&repo=NOMBRE-REPO-2&theme=radical)](https://github.com/delsycuellarchung/NOMBRE-REPO-2)
 
 </div>
-
----
 
 ### 📫 Conectemos
 
@@ -111,25 +101,12 @@ const delsy = {
 
 </div>
 
----
-
 ### 💡 Actualmente
 
 - 🔭 Trabajando en proyectos full stack con Angular y Laravel
-- 🌱 Perfeccionando mis habilidades en C# y .NET
+- 🌱 Perfeccionando mis habilidades en C# y . NET
 - 💾 Optimizando bases de datos y consultas SQL
 - 🐧 Desarrollando en entornos Linux
 - 👯 Abierta a colaborar en proyectos open source
 - 💬 Pregúntame sobre desarrollo web, bases de datos, o cualquier cosa tech! 
-- ⚡ Fun fact: Me encanta resolver problemas complejos y crear soluciones elegantes
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
-  
-  ### ✨ Gracias por visitar mi perfil!  ✨
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=delsycuellarchung&color=blueviolet&style=for-the-badge)
-  
-</div>
+- ⚡ Fun fact:  Me encanta resolver problemas complejos y crear soluciones elegantes
