@@ -2,27 +2,11 @@
   <img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=12&height=200&section=header&text=Delsy%20Cuellar%20Chung&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&height=70&lines=Hola! +Soy+Delsy+👋;Full+Stack+Developer+💻;Creando+experiencias+digitales+✨" />
-</h1>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-<h3 align="center">💜 Apasionada por crear código limpio y experiencias increíbles 💜</h3>
+<h3 align="center">💜 Full Stack Developer | Creando experiencias digitales increíbles 💜</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp. com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Frontend+%7C+Backend+%7C+Databases;React+•+Angular+•+Vue.js;Laravel+•+C%23+•+.  NET;Siempre+aprendiendo+nuevas+tecnologías+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Desarrolladora+Full+Stack;Frontend+%7C+Backend+%7C+Databases;Apasionada+por+el+código+limpio;Siempre+aprendiendo+nuevas+tecnologías+🚀" alt="Typing SVG" />
 </p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
 
 ---
 
@@ -37,7 +21,7 @@ const delsy = {
         frontend: ["React", "Angular", "Vue.js", "HTML5", "CSS3"],
         backend: ["Laravel", "C#", ". NET"],
         databases: ["MySQL", "PostgreSQL", "MongoDB", "SQL Server"],
-        tools:  ["Git", "Linux", "Docker", "Figma", "VS Code"]
+        tools: ["Git", "Linux", "Docker", "Figma", "VS Code"]
     },
     currentFocus: "Crear aplicaciones escalables y eficientes",
     funFact: "El café y el código son mi combinación perfecta ☕️"
@@ -52,12 +36,12 @@ const delsy = {
 
 #### 💻 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6? style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue. js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 #### 🎨 Estilos & Frameworks CSS
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -65,10 +49,10 @@ const delsy = {
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 #### ⚙️ Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20? style=for-the-badge&logo=laravel&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120? style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4? style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![. NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
@@ -96,7 +80,7 @@ const delsy = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api? username=delsycuellarchung&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel. app/api/top-langs/? username=delsycuellarchung&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delsycuellarchung&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
@@ -109,7 +93,7 @@ const delsy = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel. app/api/pin/?username=delsycuellarchung&repo=NOMBRE-REPO-1&theme=radical)](https://github.com/delsycuellarchung/NOMBRE-REPO-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=delsycuellarchung&repo=NOMBRE-REPO-1&theme=radical)](https://github.com/delsycuellarchung/NOMBRE-REPO-1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=delsycuellarchung&repo=NOMBRE-REPO-2&theme=radical)](https://github.com/delsycuellarchung/NOMBRE-REPO-2)
 
 </div>
@@ -121,7 +105,7 @@ const delsy = {
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722? style=for-the-badge&logo=todoist&logoColor=white)](https://tu-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tu-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
 
