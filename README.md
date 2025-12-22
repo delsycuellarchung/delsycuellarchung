@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="./github.jpg" alt="Banner" width="100%"/>
-</div
+  <img src="assets/github.jpg" alt="Banner" width="100%"/>
+</div>
 <h3 align="center">💜 Full Stack Developer | Creando experiencias💜</h3>
 
 <p align="center">
