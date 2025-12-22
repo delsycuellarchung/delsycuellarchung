@@ -1,8 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=12&height=200&section=header&text=Delsy%20Cuellar%20Chung&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
-</div>
 
-<h3 align="center">💜 Full Stack Developer | Creando experiencias digitales increíbles 💜</h3>
+
+<h3 align="center">💜 Full Stack Developer | Creando experiencias💜</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Desarrolladora+Full+Stack;Frontend+%7C+Backend+%7C+Databases;Apasionada+por+el+código+limpio;Siempre+aprendiendo+nuevas+tecnologías+🚀" alt="Typing SVG" />
@@ -124,12 +122,3 @@ const delsy = {
 - ⚡ Fun fact: Me encanta resolver problemas complejos y crear soluciones elegantes
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
-  
-  ### ✨ Gracias por visitar mi perfil!  ✨
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=delsycuellarchung&color=blueviolet&style=for-the-badge)
-  
-</div>
