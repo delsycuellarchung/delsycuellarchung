@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://storage.ko-fi.com/cdn/useruploads/display/72d9c24d-0383-4a21-b882-19daa6273c3e_github-wallpapers-for-desktop.jpg" alt="Banner" width="100%"/>
+  <img src="https://storage.ko-fi.com/cdn/useruploads/display/72d9c24d-0383-4a21-b882-19daa6273c3e_github-wallpapers-for-desktop.jpg" alt="Banner" width="100%" style="max-height: 300px; object-fit: cover;"/>
 </div>
 <h3 align="center">💜 Full Stack Developer | Creando experiencias💜</h3>
 
