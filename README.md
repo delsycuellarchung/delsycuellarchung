@@ -12,10 +12,10 @@
 
 ```javascript
 const delsy = {
-    role:  "Full Stack Developer",
+    role: "Full Stack Developer",
     location: "🌎",
     code: ["JavaScript", "TypeScript", "C#", "C++", "PHP"],
-    technologies:  {
+    technologies: {
         frontend: ["React", "Angular", "Vue.js", "HTML5", "CSS3"],
         backend: ["Laravel", "C#", ". NET"],
         databases: ["MySQL", "PostgreSQL", "MongoDB", "SQL Server"],
@@ -47,10 +47,10 @@ const delsy = {
 #### ⚙️ Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/. NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4? style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node. js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 #### 🗄️ Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -61,10 +61,10 @@ const delsy = {
 #### 🔧 Herramientas & Otros
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED? style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91? style=for-the-badge&logo=visualstudio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -73,7 +73,7 @@ const delsy = {
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel. app/api? username=delsycuellarchung&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api? username=delsycuellarchung&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel. app/api/top-langs/? username=delsycuellarchung&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
@@ -104,9 +104,9 @@ const delsy = {
 ### 💡 Actualmente
 
 - 🔭 Trabajando en proyectos full stack con Angular y Laravel
-- 🌱 Perfeccionando mis habilidades en C# y .NET
+- 🌱 Perfeccionando mis habilidades en C# y . NET
 - 💾 Optimizando bases de datos y consultas SQL
 - 🐧 Desarrollando en entornos Linux
 - 👯 Abierta a colaborar en proyectos open source
 - 💬 Pregúntame sobre desarrollo web, bases de datos, o cualquier cosa tech! 
-- ⚡ Fun fact: Me encanta resolver problemas complejos y crear soluciones elegantes
+- ⚡ Fun fact:  Me encanta resolver problemas complejos y crear soluciones elegantes
