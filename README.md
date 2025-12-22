@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://images.hdqwalls.com/wallpapers/jujutsu-kaisen-sengaku-soran-4k-wz.jpg" alt="Banner" width="100%" height="500" style="object-fit: cover; object-position: center;"/>
 </div>
-<h3 align="center">💜 Full Stack Developer | AMO  la 𝒸𝑜𝒸𝒶𝒸𝑜𝓁𝒶 </h3>
+<h3 align="center">💜 Full Stack Developer | AMO  la 𝒸𝑜𝒸𝒶𝒸𝑜𝓁𝒶 🥤 </h3>
 
 ---
 
