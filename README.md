@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://storage.ko-fi.com/cdn/useruploads/display/72d9c24d-0383-4a21-b882-19daa6273c3e_github-wallpapers-for-desktop.jpg" alt="Banner" width="100%" height="250" style="object-fit: cover; object-position: center;"/>
+  <img src="https://storage.ko-fi.com/cdn/useruploads/display/72d9c24d-0383-4a21-b882-19daa6273c3e_github-wallpapers-for-desktop.jpg" alt="Banner" width="100%" height="250" style="object-fit:  cover; object-position: center;"/>
 </div>
+
 <h3 align="center">💜 Full Stack Developer | Creando experiencias💜</h3>
 
 <p align="center">
@@ -13,12 +14,12 @@
 
 ```javascript
 const delsy = {
-    role: "Full Stack Developer",
+    role:  "Full Stack Developer",
     location: "🌎",
     code: ["JavaScript", "TypeScript", "C#", "C++", "PHP"],
-    technologies: {
+    technologies:  {
         frontend: ["React", "Angular", "Vue.js", "HTML5", "CSS3"],
-        backend: ["Laravel", "C#", ". NET"],
+        backend:  ["Laravel", "C#", ". NET"],
         databases: ["MySQL", "PostgreSQL", "MongoDB", "SQL Server"],
         tools: ["Git", "Linux", "Docker", "Figma", "VS Code"]
     },
@@ -29,15 +30,23 @@ const delsy = {
 
 ---
 
+### 📈 Contribuciones
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/F75C7E/delsycuellarchung" alt="Contribuciones de GitHub" width="100%"/>
+</div>
+
+---
+
 ### 🛠️ Mi Stack Tecnológico
 
 <div align="center">
 
 #### 💻 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26? style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC? style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
@@ -53,7 +62,7 @@ const delsy = {
 ![. NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933? style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 #### 🗄️ Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -78,7 +87,7 @@ const delsy = {
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api? username=delsycuellarchung&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel. app/api? username=delsycuellarchung&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delsycuellarchung&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
