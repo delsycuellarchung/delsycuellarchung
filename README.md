@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Delsy%20Cuellar%20Chung&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
-</div>
+<h1 align="center">Delsy Cuellar Chung</h1>
 
 <h3 align="center">💜 Full Stack Developer | Creando experiencias digitales increíbles 💜</h3>
 
@@ -73,7 +71,7 @@ const delsy = {
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api? username=delsycuellarchung&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel. app/api? username=delsycuellarchung&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel. app/api/top-langs/? username=delsycuellarchung&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
@@ -104,15 +102,9 @@ const delsy = {
 ### 💡 Actualmente
 
 - 🔭 Trabajando en proyectos full stack con Angular y Laravel
-- 🌱 Perfeccionando mis habilidades en C# y . NET
+- 🌱 Perfeccionando mis habilidades en C# y .NET
 - 💾 Optimizando bases de datos y consultas SQL
 - 🐧 Desarrollando en entornos Linux
 - 👯 Abierta a colaborar en proyectos open source
 - 💬 Pregúntame sobre desarrollo web, bases de datos, o cualquier cosa tech! 
-- ⚡ Fun fact:  Me encanta resolver problemas complejos y crear soluciones elegantes
-
-<div align="center">
-  
-  ### ✨ Gracias por visitar mi perfil!  ✨
-  
-</div>
+- ⚡ Fun fact: Me encanta resolver problemas complejos y crear soluciones elegantes
