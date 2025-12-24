@@ -78,22 +78,6 @@ const delsy = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delsycuellarchung&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=delsycuellarchung&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
-### 🌟 Proyectos Destacados
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=delsycuellarchung&repo=NOMBRE-REPO-1&theme=radical)](https://github.com/delsycuellarchung/NOMBRE-REPO-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=delsycuellarchung&repo=NOMBRE-REPO-2&theme=radical)](https://github.com/delsycuellarchung/NOMBRE-REPO-2)
-
-</div>
-
----
 
 ### 📫 Conectemos
 
